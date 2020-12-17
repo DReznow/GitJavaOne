@@ -15,7 +15,6 @@ public class Main {
         person[0].name = "Rincewind";
         person[0].city = "Ankmorpork";
         person[0].age = 60;
-
-        System.out.println(); // complete the code
+        // complete the code
     }
 }
