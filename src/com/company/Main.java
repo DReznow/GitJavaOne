@@ -16,6 +16,6 @@ public class Main {
         person[0].city = "Ankmorpork";
         person[0].age = 60;
 
-        System.out.print("Name: s%, City: s%, Age: %d"); // complete the code
+        System.out.println(); // complete the code
     }
 }
