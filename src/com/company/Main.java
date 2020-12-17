@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello its my First git java project");
         System.out.println("-------------------------------------------");
-        System.out.println("blah blah blah new project for git");
+        System.out.println("blaaaah blah blah new project for git");
         System.out.println("-------------------------------------------");
         System.out.println("another change... awesome another change");
         System.out.println("-------------------------------------------");
@@ -16,5 +16,6 @@ public class Main {
         person[0].city = "Ankmorpork";
         person[0].age = 60;
 
+        System.out.print("Name: s%, City: s%, Age: %d"); // complete the code
     }
 }
